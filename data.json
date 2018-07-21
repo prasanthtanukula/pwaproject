@@ -1,0 +1,42 @@
+{
+  "details":{
+    "image":"satish.jpg",
+    "name":"PRASANTH TANUKULA",
+    "phoneno":"+91-8919318961",
+    "email":"prasanthcreativities@gmail.com",
+    "Address":"SRKR College,Bhimavaram"
+  },
+  "career":{
+    "info":"Applying for a job where I prove myself for the organization hopefully"
+  },
+  "education":[{
+    "degree":"B.tech,4th year, cse branch",
+    "institute":"SRKR engineering college",
+    "date":["2015-2019","67.5%"]
+  },
+  {
+    "degree":"intermediate",
+    "institute":"Aditya junior college",
+    "date":["2013-2015","84.5%"]
+  },
+  {
+    "Board":"SSC",
+    "institute" : "Aditya public school",
+    "date":["2012-2013","9.8%"]
+  }
+],
+  "keyskills":[
+    {
+      "title" : "programming languages:",
+      "info" : ["c","corejava,python"]
+    },
+    {
+      "title" : "operating system:",
+      "info" : ["windows","linux","mac","ubuntu","dos"]
+    },
+    {
+      "title"  : "database:",
+      "info" : ["mysql","mangodb"]
+    }
+    ]
+  }
